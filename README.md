@@ -1,1 +1,9 @@
-# individual-work
+# Learning objectives for Individual Work
+
+* Network activity
+* Remotes
+* Fetch/push
+* Branches
+* Student repositories
+* Github classrooms
+* Permissions
